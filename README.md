@@ -33,17 +33,3 @@ Il database è stato realizzato seguendo l'intero ciclo di vita dell'ingegneria 
 * **Modeling & Tools:** Draw.io / ERDPlus / SQL Developer Data Modeler
 * **Concetti Chiave:** Normalizzazione, Integrità Referenziale, Trigger, Viste (`VIEW`), Query annidate e funzioni di aggregazione (`GROUP BY`, `HAVING`).
 
----
-
-## 📂 Struttura della Repository
-
-```text
-├── docs/
-│   ├── relazione_progetto.pdf       # Documentazione completa (Analisi, E-R, Logico)
-│   └── schema_ER.png                # Diagramma Entità-Relazione
-├── sql/
-│   ├── 01_schema_ddl.sql            # Creazione tabelle, vincoli e relazioni
-│   ├── 02_triggers_procedures.sql   # Trigger per regole di business (es. controllo sovrapposizioni/scadenze)
-│   ├── 03_populate_dml.sql          # Dataset di test (INSERT)
-│   └── 04_queries.sql               # Query di interrogazione e reportistica
-└── README.md
