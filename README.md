@@ -28,8 +28,8 @@ Il database è stato realizzato seguendo l'intero ciclo di vita dell'ingegneria 
 
 ## 🛠️ Tecnologie e Competenze Utilizzate
 
-* **DBMS:** Oracle Database / PostgreSQL *(adatta in base al DBMS usato)*
-* **Linguaggi:** SQL (DDL, DML, DQL) e PL/SQL *(se hai usato trigger o stored procedure)*
+* **DBMS:** Oracle Database
+* **Linguaggi:** SQL (DDL, DML, DQL) e PL/SQL 
 * **Modeling & Tools:** Draw.io / ERDPlus / SQL Developer Data Modeler
 * **Concetti Chiave:** Normalizzazione, Integrità Referenziale, Trigger, Viste (`VIEW`), Query annidate e funzioni di aggregazione (`GROUP BY`, `HAVING`).
 
